@@ -24,7 +24,9 @@ This project is a simple Matrix Calculator built using Python and NumPy. It perf
 ```bash
 pip install -r requirements.txt
 ```
+## Sample Output
 
+![Program Output](output.png)
 ## Run the Project
 
 ```bash
